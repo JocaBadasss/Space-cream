@@ -16,7 +16,7 @@
 
 <br>
 
-[![DSpace cream responsivity](https://j.gifs.com/vQp2Mr.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Space cream responsivity](https://j.gifs.com/vQp2Mr.gif)]
 <p align="center">
 
 </p>
@@ -39,4 +39,4 @@ This project was developed with the following technologies:
 ## 🔖 Layout
 
 
- You can view the project layout through [THIS LINK](<https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo/Stage-03---Mobile-First/duplicate>)(<https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR/Stage-03---Grid-com-anima%C3%A7%C3%B5es/duplicate>. It is necessary to have a account on  [Figma](https://figma.com) To access.
+ You can view the project layout through [THIS LINK](<https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo/Stage-03---Mobile-First/duplicate>)[THIS LINK](<https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR/Stage-03---Grid-com-anima%C3%A7%C3%B5es/duplicate>. It is necessary to have a account on  [Figma](https://figma.com) To access.

@@ -16,9 +16,9 @@
 
 <br>
 
-[![Space cream responsivity](https://j.gifs.com/vQp2Mr.gif)]
+![Space cream responsivity](https://j.gifs.com/vQp2Mr.gif)
 <p align="center">
-
+![Space cream responsivity](https://j.gifs.com/vQp2Mr.gif)
 </p>
 
 ## 🚀 Technologies

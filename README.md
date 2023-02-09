@@ -1,7 +1,7 @@
 <h1 align="center">Space cream</h1>
 
 <p align="center">
-  A app promoted by Rocketseat to teach responsivity on differents devices.
+  A app promoted by Rocketseat to teach responsivity and animations on differents devices.
  <br/>
 </p>
 
@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-**Rocket.sect** is an app developed to provide information security services.
+**Space cream** is an app that apresents the catalog of an ice cream shop with animated images.
 
 
 - [Visit the project online](https://jocabadasss.github.io/Rocket.sect)

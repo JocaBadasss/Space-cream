@@ -1,4 +1,4 @@
-<h1 align="center">SPace cream</h1>
+<h1 align="center">Space cream</h1>
 
 <p align="center">
   A app promoted by Rocketseat to teach responsivity on differents devices.
@@ -17,11 +17,7 @@
 <br>
 
 <p align="center">
-  <video width="100%" controls>
-  <source src="https://gifs.com/gif/space-cream-vQp2Mr" type="video/mp4">
- 
-  Your browser does not support the video tag.
-</video>
+  [![Space cream responsivity working](https://gifs.com/gif/space-cream-vQp2Mr)
 </p>
 
 ## 🚀 Technologies

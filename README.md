@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 **Space cream** is an app that apresents the catalog of an ice cream shop with animated images.
 
 
-- [Visit the project online](https://jocabadasss.github.io/Rocket.sect)
+- [Visit the project online](https://jocabadasss.github.io/Space-cream/)
 
 ## 🔖 Layout
 

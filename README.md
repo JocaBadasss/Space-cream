@@ -16,7 +16,11 @@
 
 <br>
 
-![Space cream responsivity](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY0Y2Q4N2Q3MDYxMDk1MDhlNDEwNDRiMjZiZjYzN2M3M2JhMzU1MyZjdD1n/5Y9G0VEn5m5Rs7Lma7/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI1NGMwMzNhNTk1YjU0NjBkOWE2ODI5OTJjMjI3MTEwNjFmNjM2MSZjdD1n/5Y9G0VEn5m5Rs7Lma7/giphy.gif" alt="">
+</p>
+
+
 
 
 ## 🚀 Technologies
